@@ -23,7 +23,7 @@
     <li>
       <packageId>VanillaExpanded.VGeneticsE</packageId>
       <displayName>Vanilla Genetics Expanded</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2801160906</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
@@ -94,5 +94,6 @@ Lastly, thanks go to you, for reading this (and hopefully downloading the mod, t
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]</description>
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3029891263]Last updated 2023-09-02[/url]</description>
 </ModMetaData>

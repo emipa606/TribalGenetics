@@ -1,4 +1,7 @@
 # Changelog for TribalGenetics
 
+1.4.1 - Fixed the wrong dependency-id
+
+
 1.4.0 - First publish
 
