@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PreceptDef ParentName="PreceptRoleSingleBase">
+    <defName>TribalGenetics_IdeoRole_GeneShaman</defName>
+    <label>gene shaman</label>
+    <description>One who has had the ancient secrets of geneworking passed down to them.</description>
+    <iconPath>UI/SpecialistGenes</iconPath>
+    <nameMaker>GeneShamanNames</nameMaker>
+    <roleRequiredWorkTagAny>
+      <li>Intellectual</li>
+    </roleRequiredWorkTagAny>
+    <roleTags>
+      <li>GeneShaman</li>
+    </roleTags>
+    <requiredMemes>
+      <li>TribalGenetics</li>
+    </requiredMemes>
+    <displayOrderInImpact>2</displayOrderInImpact>
+    <roleDisabledWorkTags>
+      <li>ManualDumb</li>
+      <li>Cooking</li>
+      <li>PlantWork</li>
+      <li>Mining</li>
+    </roleDisabledWorkTags>
+    <grantedAbilities>
+      <li>TribalGenetics_ShamanExtraction</li>
+    </grantedAbilities>
+  </PreceptDef>
+  <RulePackDef>
+    <defName>GeneShamanNames</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
+        <li>r_roleName-&gt;Gene Shaman</li>
+        <li>firstPart-&gt;Gene </li>
+        <li>firstPart-&gt;Genetic </li>
+        <li>firstPart-&gt;Beast-Blood </li>
+        <li>firstPart-&gt;Secret </li>
+        <li>firstPart-&gt;Code </li>
+        <li>secondPart(p=4)-&gt;Shaman</li>
+        <li>secondPart(p=4)-&gt;Keeper</li>
+        <li>secondPart(p=4)-&gt;Knower</li>
+        <li>secondPart(p=4)-&gt;Speaker</li>
+        <li>secondPart(p=4)-&gt;Crafter</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>
