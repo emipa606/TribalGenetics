@@ -59,6 +59,9 @@ Lastly, thanks go to you, for reading this (and hopefully downloading the mod, t
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/3029891263]Last updated 2023-09-02
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3029891263]![Image](https://img.shields.io/github/v/release/emipa606/TribalGenetics?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
+

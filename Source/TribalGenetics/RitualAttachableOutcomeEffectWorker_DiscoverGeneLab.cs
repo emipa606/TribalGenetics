@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using RimWorld;
-using RimWorld.Planet;
 using RimWorld.QuestGen;
 using Verse;
 
@@ -9,7 +8,8 @@ namespace TribalGenetics;
 
 public class RitualAttachableOutcomeEffectWorker_DiscoverGeneLab : RitualAttachableOutcomeEffectWorker
 {
-    public override void Apply(Dictionary<Pawn, int> totalPresence, LordJob_Ritual jobRitual, OutcomeChance outcome,
+    public override void Apply(Dictionary<Pawn, int> totalPresence, LordJob_Ritual jobRitual,
+        RitualOutcomePossibility outcome,
         out string extraOutcomeDesc, ref LookTargets letterLookTargets)
     {
         if (!CanApplyNow(jobRitual.Ritual, jobRitual.Map))
@@ -23,6 +23,6 @@ public class RitualAttachableOutcomeEffectWorker_DiscoverGeneLab : RitualAttacha
         var quest = QuestUtility.GenerateQuestAndMakeAvailable(GeneticRim.InternalDefOf.GR_OpportunitySite_AbandonedLab,
             vars);
         letterLookTargets =
-            new LookTargets((letterLookTargets.targets ?? new List<GlobalTargetInfo>()).Concat(quest.QuestLookTargets));
+            new LookTargets((letterLookTargets.targets ?? []).Concat(quest.QuestLookTargets));
     }
 }

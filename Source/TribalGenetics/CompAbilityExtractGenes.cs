@@ -114,8 +114,8 @@ public class CompAbilityExtractGenes : CompAbilityEffect
 
         for (var i = 0; i < 20; i++)
         {
-            CellFinder.TryFindRandomReachableCellNear(root, map, 2f, TraverseParms.For(TraverseMode.NoPassClosedDoors),
-                null, null, out var result);
+            CellFinder.TryFindRandomReachableCellNearPosition(root, root, map, 2f,
+                TraverseParms.For(TraverseMode.NoPassClosedDoors), null, null, out var result);
             FilthMaker.TryMakeFilth(result, map, thingDef);
         }
     }

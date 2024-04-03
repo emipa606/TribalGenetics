@@ -91,7 +91,7 @@ public class RitualOutcomeEffectWorker_GrinderSacrifice : RitualOutcomeEffectWor
     }
 
     protected override void ApplyExtraOutcome(Dictionary<Pawn, int> totalPresence, LordJob_Ritual jobRitual,
-        OutcomeChance outcome, out string extraOutcomeDesc, ref LookTargets letterLookTargets)
+        RitualOutcomePossibility outcome, out string extraOutcomeDesc, ref LookTargets letterLookTargets)
     {
         extraOutcomeDesc = null;
         ThingDef thingDef = null;

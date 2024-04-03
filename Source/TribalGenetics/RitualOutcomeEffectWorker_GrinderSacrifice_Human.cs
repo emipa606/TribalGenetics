@@ -87,7 +87,7 @@ internal class RitualOutcomeEffectWorker_GrinderSacrifice_Human : RitualOutcomeE
     }
 
     protected override void ApplyExtraOutcome(Dictionary<Pawn, int> totalPresence, LordJob_Ritual jobRitual,
-        OutcomeChance outcome, out string extraOutcomeDesc, ref LookTargets letterLookTargets)
+        RitualOutcomePossibility outcome, out string extraOutcomeDesc, ref LookTargets letterLookTargets)
     {
         extraOutcomeDesc = null;
         var gR_HumanoidGenetic = GeneticRim.InternalDefOf.GR_HumanoidGenetic;
