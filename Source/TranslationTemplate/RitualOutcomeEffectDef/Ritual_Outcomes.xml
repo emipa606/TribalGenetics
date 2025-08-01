@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: A single genoframe from awful to good quality will be produced, depending on the outcome quality of the ritual.\n\nAdditionally, if the ritual is normal or good, there is a 50% chance for a genome to be produced (only for sacrifices with tier 1 genomes). -->
+  <GrinderSacrificeAnimal_Outcome.description>A single genoframe from awful to good quality will be produced, depending on the outcome quality of the ritual.
+
+Additionally, if the ritual is normal or good, there is a 50% chance for a genome to be produced (only for sacrifices with tier 1 genomes).</GrinderSacrificeAnimal_Outcome.description>
+  <!-- EN: room impressiveness -->
+  <GrinderSacrificeAnimal_Outcome.comps.0.label>room impressiveness</GrinderSacrificeAnimal_Outcome.comps.0.label>
+  <!-- EN: participant count -->
+  <GrinderSacrificeAnimal_Outcome.comps.1.label>participant count</GrinderSacrificeAnimal_Outcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s research ability -->
+  <GrinderSacrificeAnimal_Outcome.comps.2.label>{PAWN_labelShort}'s research ability</GrinderSacrificeAnimal_Outcome.comps.2.label>
+  <!-- EN: speaker's research ability -->
+  <GrinderSacrificeAnimal_Outcome.comps.2.labelAbstract>speaker's research ability</GrinderSacrificeAnimal_Outcome.comps.2.labelAbstract>
+  <!-- EN: Awful -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.0.label>Awful</GrinderSacrificeAnimal_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was awful! The holy machine was aghast at our offering, choking it down with great consternation. The awful genoframe it gave us feels more like a punishment than a gift. -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.0.description>The {0} was awful! The holy machine was aghast at our offering, choking it down with great consternation. The awful genoframe it gave us feels more like a punishment than a gift.</GrinderSacrificeAnimal_Outcome.outcomeChances.0.description>
+  <!-- EN: Poor -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.1.label>Poor</GrinderSacrificeAnimal_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was poor. The holy machine seemed dissatisfied with our offering, giving us a poor genoframe as a sign of its discontent. -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.1.description>The {0} was poor. The holy machine seemed dissatisfied with our offering, giving us a poor genoframe as a sign of its discontent.</GrinderSacrificeAnimal_Outcome.outcomeChances.1.description>
+  <!-- EN: Normal -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.2.label>Normal</GrinderSacrificeAnimal_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was normal. The holy machine seemed satisfied with our offering, and gave us a standard genoframe for our efforts. -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.2.description>The {0} was normal. The holy machine seemed satisfied with our offering, and gave us a standard genoframe for our efforts.</GrinderSacrificeAnimal_Outcome.outcomeChances.2.description>
+  <!-- EN: Good -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.3.label>Good</GrinderSacrificeAnimal_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was good! The holy machine supped happily on our offering, and gifted us a powerful genoframe. -->
+  <GrinderSacrificeAnimal_Outcome.outcomeChances.3.description>The {0} was good! The holy machine supped happily on our offering, and gifted us a powerful genoframe.</GrinderSacrificeAnimal_Outcome.outcomeChances.3.description>
+  <!-- EN: A single genoframe from poor to excellent quality will be produced, depending on the outcome quality of the ritual.\n\nAdditionally, if the ritual is good or excellent, there is a 50% chance for a humanoid genome to be produced. -->
+  <GrinderSacrificePrisoner_Outcome.description>A single genoframe from poor to excellent quality will be produced, depending on the outcome quality of the ritual.
+
+Additionally, if the ritual is good or excellent, there is a 50% chance for a humanoid genome to be produced.</GrinderSacrificePrisoner_Outcome.description>
+  <!-- EN: room impressiveness -->
+  <GrinderSacrificePrisoner_Outcome.comps.0.label>room impressiveness</GrinderSacrificePrisoner_Outcome.comps.0.label>
+  <!-- EN: participant count -->
+  <GrinderSacrificePrisoner_Outcome.comps.1.label>participant count</GrinderSacrificePrisoner_Outcome.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s research ability -->
+  <GrinderSacrificePrisoner_Outcome.comps.2.label>{PAWN_labelShort}'s research ability</GrinderSacrificePrisoner_Outcome.comps.2.label>
+  <!-- EN: speaker's research ability -->
+  <GrinderSacrificePrisoner_Outcome.comps.2.labelAbstract>speaker's research ability</GrinderSacrificePrisoner_Outcome.comps.2.labelAbstract>
+  <!-- EN: Poor -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.0.label>Poor</GrinderSacrificePrisoner_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was poor. The holy machine seemed dissatisfied with our offering, giving us a poor genoframe as a sign of its discontent. -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.0.description>The {0} was poor. The holy machine seemed dissatisfied with our offering, giving us a poor genoframe as a sign of its discontent.</GrinderSacrificePrisoner_Outcome.outcomeChances.0.description>
+  <!-- EN: Normal -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.1.label>Normal</GrinderSacrificePrisoner_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was normal. The holy machine seemed satisfied with our offering, and gave us a standard genoframe for our efforts. -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.1.description>The {0} was normal. The holy machine seemed satisfied with our offering, and gave us a standard genoframe for our efforts.</GrinderSacrificePrisoner_Outcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.2.label>Good</GrinderSacrificePrisoner_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good! The holy machine supped happily on our offering, and gifted us a powerful genoframe. -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.2.description>The {0} was good! The holy machine supped happily on our offering, and gifted us a powerful genoframe.</GrinderSacrificePrisoner_Outcome.outcomeChances.2.description>
+  <!-- EN: Excellent -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.3.label>Excellent</GrinderSacrificePrisoner_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was excellent! The holy machine feasted upon our offering with delight, and blessed us an extremely powerful genoframe! -->
+  <GrinderSacrificePrisoner_Outcome.outcomeChances.3.description>The {0} was excellent! The holy machine feasted upon our offering with delight, and blessed us an extremely powerful genoframe!</GrinderSacrificePrisoner_Outcome.outcomeChances.3.description>
+</LanguageData>

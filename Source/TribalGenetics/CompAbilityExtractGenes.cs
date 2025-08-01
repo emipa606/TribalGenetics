@@ -8,7 +8,7 @@ namespace TribalGenetics;
 
 public class CompAbilityExtractGenes : CompAbilityEffect
 {
-    public ThingDef thingToSpawn;
+    private ThingDef thingToSpawn;
 
     public new CompProperties_AbilityExtractGenes Props => (CompProperties_AbilityExtractGenes)props;
 
@@ -87,7 +87,7 @@ public class CompAbilityExtractGenes : CompAbilityEffect
         base.Apply(target, dest);
     }
 
-    public void popBlood(Pawn pawn, Corpse corpse)
+    private void popBlood(Pawn pawn, Corpse corpse)
     {
         var root = IntVec3.Zero;
         Map map = null;

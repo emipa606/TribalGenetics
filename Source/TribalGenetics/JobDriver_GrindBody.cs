@@ -12,7 +12,7 @@ public class JobDriver_GrindBody : JobDriver
 
     private const TargetIndex StandingIndex = TargetIndex.B;
 
-    protected Pawn Victim => (Pawn)job.GetTarget(TargetIndex.A).Thing;
+    private Pawn Victim => (Pawn)job.GetTarget(TargetIndex.A).Thing;
 
     public override bool TryMakePreToilReservations(bool errorOnFailed)
     {

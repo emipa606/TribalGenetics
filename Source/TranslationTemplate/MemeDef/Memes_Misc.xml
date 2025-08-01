@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sacred genetics -->
+  <TribalGenetics.label>sacred genetics</TribalGenetics.label>
+  <!-- EN: Our ancestors passed down knowledge of secret strengths hidden in the flesh of animals, and of the rituals to make those strengths our own. -->
+  <TribalGenetics.description>Our ancestors passed down knowledge of secret strengths hidden in the flesh of animals, and of the rituals to make those strengths our own.</TribalGenetics.description>
+  <!-- EN: genetic -->
+  <TribalGenetics.symbolPacks.0.adjective>genetic</TribalGenetics.symbolPacks.0.adjective>
+  <!-- EN: Geneticism -->
+  <TribalGenetics.symbolPacks.0.ideoName>Geneticism</TribalGenetics.symbolPacks.0.ideoName>
+  <!-- EN: geneticist -->
+  <TribalGenetics.symbolPacks.0.member>geneticist</TribalGenetics.symbolPacks.0.member>
+  <!-- EN: genetics -->
+  <TribalGenetics.symbolPacks.0.theme>genetics</TribalGenetics.symbolPacks.0.theme>
+</LanguageData>

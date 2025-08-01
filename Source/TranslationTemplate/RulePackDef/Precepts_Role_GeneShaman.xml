@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Gene Shaman</li>
+    <li>firstPart->Gene </li>
+    <li>firstPart->Genetic </li>
+    <li>firstPart->Beast-Blood </li>
+    <li>firstPart->Secret </li>
+    <li>firstPart->Code </li>
+    <li>secondPart(p=4)->Shaman</li>
+    <li>secondPart(p=4)->Keeper</li>
+    <li>secondPart(p=4)->Knower</li>
+    <li>secondPart(p=4)->Speaker</li>
+    <li>secondPart(p=4)->Crafter</li>
+  -->
+  <GeneShamanNames.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName->Gene Shaman</li>
+    <li>firstPart->Gene </li>
+    <li>firstPart->Genetic </li>
+    <li>firstPart->Beast-Blood </li>
+    <li>firstPart->Secret </li>
+    <li>firstPart->Code </li>
+    <li>secondPart(p=4)->Shaman</li>
+    <li>secondPart(p=4)->Keeper</li>
+    <li>secondPart(p=4)->Knower</li>
+    <li>secondPart(p=4)->Speaker</li>
+    <li>secondPart(p=4)->Crafter</li>
+  </GeneShamanNames.rulePack.rulesStrings>
+</LanguageData>

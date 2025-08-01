@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: discover ancient genetics lab -->
+  <DiscoverGeneLab.label>discover ancient genetics lab</DiscoverGeneLab.label>
+  <!-- EN: you will discover the location of an ancient genetics lab nearby. -->
+  <DiscoverGeneLab.effectDesc>you will discover the location of an ancient genetics lab nearby.</DiscoverGeneLab.effectDesc>
+  <!-- EN: You've discovered the location of an ancient  genetics lab. -->
+  <DiscoverGeneLab.letterInfoText>You've discovered the location of an ancient  genetics lab.</DiscoverGeneLab.letterInfoText>
+  <!-- EN: sacred genetics -->
+  <DiscoverGeneLab.requiredMemeList>sacred genetics</DiscoverGeneLab.requiredMemeList>
+</LanguageData>

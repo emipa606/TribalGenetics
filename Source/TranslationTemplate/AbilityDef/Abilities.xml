@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: extract genes -->
+  <TribalGenetics_ShamanExtraction.label>extract genes</TribalGenetics_ShamanExtraction.label>
+  <!-- EN: Extract genetic material from a corpse. The tools are crude, so they can only extract tier 1 genetics, and it will take several days to prepare them for use again. -->
+  <TribalGenetics_ShamanExtraction.description>Extract genetic material from a corpse. The tools are crude, so they can only extract tier 1 genetics, and it will take several days to prepare them for use again.</TribalGenetics_ShamanExtraction.description>
+</LanguageData>

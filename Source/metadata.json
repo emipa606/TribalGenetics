@@ -2,5 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " sacrifices",
+    " rituals"
+  ],
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 18769,
+  "LinesOfXML": 93869,
+  "CodeBaseSize": 80,
+  "LastXmlCleaning": "2025-08-01T14:40:42.12144+02:00"
 }

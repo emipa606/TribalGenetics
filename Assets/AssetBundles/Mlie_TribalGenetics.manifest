@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2938669451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dd10ea4483b08632ad033d7fa292533
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2dd10ea4483b08632ad033d7fa292533
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/SpecialistGenes.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/PulperTorch.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTableGeneticTinkering_south.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTissueGrinder_north.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/JunkColumnA.png
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/TissueGrinderFuneral.png
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/TissueGrinderHumanRitual.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/JunkColumnX.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/JunkColumnY.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/JunkColumnB.png
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/TissueGrinderRitual.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTableGeneticTinkering_east.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTableGeneticTinkering_north.png
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/ExtractGenome.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTissueGrinder_east.png
+- Assets/Data/Mlie.TribalGenetics/Textures/UI/SacredGenetics.png
+- Assets/Data/Mlie.TribalGenetics/Textures/Things/SanctifiedTissueGrinder_south.png
+Dependencies: []

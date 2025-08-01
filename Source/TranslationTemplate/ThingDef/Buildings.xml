@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: junk column -->
+  <JunkColumnX.label>junk column</JunkColumnX.label>
+  <!-- EN: Ancient junk stacked to form some sort of column, or totem. Surprisingly, it's capable of holding a roof. -->
+  <JunkColumnX.description>Ancient junk stacked to form some sort of column, or totem. Surprisingly, it's capable of holding a roof.</JunkColumnX.description>
+  <!-- EN: scrap column -->
+  <JunkColumnY.label>scrap column</JunkColumnY.label>
+  <!-- EN: Ancient scrap stacked to form some sort of column, or totem. Surprisingly, it's capable of holding a roof. -->
+  <JunkColumnY.description>Ancient scrap stacked to form some sort of column, or totem. Surprisingly, it's capable of holding a roof.</JunkColumnY.description>
+  <!-- EN: Pulper torch -->
+  <PulperTorch.label>Pulper torch</PulperTorch.label>
+  <!-- EN: An ancient machine, repurposed as a torch. Once upon a time, this shredded wood into organic pulp. Now it just burns it to produce light and a small amount of heat. -->
+  <PulperTorch.description>An ancient machine, repurposed as a torch. Once upon a time, this shredded wood into organic pulp. Now it just burns it to produce light and a small amount of heat.</PulperTorch.description>
+  <!-- EN: sanctified genetics table -->
+  <SanctGeneticsTable.label>sanctified genetics table</SanctGeneticsTable.label>
+  <!-- EN: An old and worn genetic workbench. Though many parts have either decayed or been deliberately covered in ritualistic carvings, the most important parts have been preserved. \n\nIt is powered by an internal micro-bio-battery, meaning it does not need to be connected to a power grid, but each recipe requires a large amount of meat to provide the necessary energy. The machine hungers for flesh! -->
+  <SanctGeneticsTable.description>An old and worn genetic workbench. Though many parts have either decayed or been deliberately covered in ritualistic carvings, the most important parts have been preserved. 
+
+It is powered by an internal micro-bio-battery, meaning it does not need to be connected to a power grid, but each recipe requires a large amount of meat to provide the necessary energy. The machine hungers for flesh!</SanctGeneticsTable.description>
+  <!-- EN: sanctified tissue grinder -->
+  <SanctTissueGrinder.label>sanctified tissue grinder</SanctTissueGrinder.label>
+  <!-- EN: An old and worn tissue grinder. Though many parts have either decayed or been deliberately covered in ritualistic carvings, the most important parts have been preserved. \n\nThe modifications are extensive enough that it cannot be operated as a standard tissue grinder, but to those who have been trained in the holy machine's mysteries, it is a powerful tool of great spiritual significance. -->
+  <SanctTissueGrinder.description>An old and worn tissue grinder. Though many parts have either decayed or been deliberately covered in ritualistic carvings, the most important parts have been preserved. 
+
+The modifications are extensive enough that it cannot be operated as a standard tissue grinder, but to those who have been trained in the holy machine's mysteries, it is a powerful tool of great spiritual significance.</SanctTissueGrinder.description>
+</LanguageData>

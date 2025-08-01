@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <PreceptDef ParentName="PreceptRoleSingleBase">
     <defName>TribalGenetics_IdeoRole_GeneShaman</defName>
@@ -30,18 +30,18 @@
     <defName>GeneShamanNames</defName>
     <rulePack>
       <rulesStrings>
-        <li>r_roleName(p=7)-&gt;[firstPart][secondPart]</li>
-        <li>r_roleName-&gt;Gene Shaman</li>
-        <li>firstPart-&gt;Gene </li>
-        <li>firstPart-&gt;Genetic </li>
-        <li>firstPart-&gt;Beast-Blood </li>
-        <li>firstPart-&gt;Secret </li>
-        <li>firstPart-&gt;Code </li>
-        <li>secondPart(p=4)-&gt;Shaman</li>
-        <li>secondPart(p=4)-&gt;Keeper</li>
-        <li>secondPart(p=4)-&gt;Knower</li>
-        <li>secondPart(p=4)-&gt;Speaker</li>
-        <li>secondPart(p=4)-&gt;Crafter</li>
+        <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+        <li>r_roleName->Gene Shaman</li>
+        <li>firstPart->Gene </li>
+        <li>firstPart->Genetic </li>
+        <li>firstPart->Beast-Blood </li>
+        <li>firstPart->Secret </li>
+        <li>firstPart->Code </li>
+        <li>secondPart(p=4)->Shaman</li>
+        <li>secondPart(p=4)->Keeper</li>
+        <li>secondPart(p=4)->Knower</li>
+        <li>secondPart(p=4)->Speaker</li>
+        <li>secondPart(p=4)->Crafter</li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>

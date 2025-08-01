@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: shaman -->
+  <GrinderSacrificeAnimal.roles.0.label>shaman</GrinderSacrificeAnimal.roles.0.label>
+  <!-- EN: sacrifice -->
+  <GrinderSacrificeAnimal.roles.1.label>sacrifice</GrinderSacrificeAnimal.roles.1.label>
+  <!-- EN: a tame animal -->
+  <GrinderSacrificeAnimal.roles.1.missingDesc>a tame animal</GrinderSacrificeAnimal.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <GrinderSacrificeAnimal.spectatorGerund>participate</GrinderSacrificeAnimal.spectatorGerund>
+  <!-- EN: Participants -->
+  <GrinderSacrificeAnimal.spectatorsLabel>Participants</GrinderSacrificeAnimal.spectatorsLabel>
+  <!-- EN: Animal is not reachable. -->
+  <GrinderSacrificeAnimal.stages.0.failTriggers.0.desc>Animal is not reachable.</GrinderSacrificeAnimal.stages.0.failTriggers.0.desc>
+  <!-- EN: shaman -->
+  <GrinderSacrificePrisoner.roles.0.label>shaman</GrinderSacrificePrisoner.roles.0.label>
+  <!-- EN: sacrifice -->
+  <GrinderSacrificePrisoner.roles.1.label>sacrifice</GrinderSacrificePrisoner.roles.1.label>
+  <!-- EN: a prisoner -->
+  <GrinderSacrificePrisoner.roles.1.missingDesc>a prisoner</GrinderSacrificePrisoner.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <GrinderSacrificePrisoner.spectatorGerund>participate</GrinderSacrificePrisoner.spectatorGerund>
+  <!-- EN: Participants -->
+  <GrinderSacrificePrisoner.spectatorsLabel>Participants</GrinderSacrificePrisoner.spectatorsLabel>
+  <!-- EN: Prisoner is not reachable. -->
+  <GrinderSacrificePrisoner.stages.0.failTriggers.0.desc>Prisoner is not reachable.</GrinderSacrificePrisoner.stages.0.failTriggers.0.desc>
+</LanguageData>

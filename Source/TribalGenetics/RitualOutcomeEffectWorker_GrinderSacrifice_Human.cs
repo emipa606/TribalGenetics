@@ -22,24 +22,20 @@ internal class RitualOutcomeEffectWorker_GrinderSacrifice_Human : RitualOutcomeE
         LookTargets letterLookTargets = jobRitual.selectedTarget;
         var positivityIndex = outcome.positivityIndex;
         ThingDef thingDef = null;
-        if (positivityIndex == -2)
+        switch (positivityIndex)
         {
-            thingDef = InternalDefOf.GR_GenoframePoor;
-        }
-
-        if (positivityIndex == -1)
-        {
-            thingDef = InternalDefOf.GR_GenoframeNormal;
-        }
-
-        if (positivityIndex == 1)
-        {
-            thingDef = InternalDefOf.GR_GenoframeGood;
-        }
-
-        if (positivityIndex == 2)
-        {
-            thingDef = InternalDefOf.GR_GenoframeExcellent;
+            case -2:
+                thingDef = InternalDefOf.GR_GenoframePoor;
+                break;
+            case -1:
+                thingDef = InternalDefOf.GR_GenoframeNormal;
+                break;
+            case 1:
+                thingDef = InternalDefOf.GR_GenoframeGood;
+                break;
+            case 2:
+                thingDef = InternalDefOf.GR_GenoframeExcellent;
+                break;
         }
 
         var selectedTarget = jobRitual.selectedTarget;

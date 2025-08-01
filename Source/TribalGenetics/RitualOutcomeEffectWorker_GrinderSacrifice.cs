@@ -8,11 +8,11 @@ namespace TribalGenetics;
 
 public class RitualOutcomeEffectWorker_GrinderSacrifice : RitualOutcomeEffectWorker_FromQuality
 {
-    public RitualOutcomeEffectWorker_GrinderSacrifice()
+    protected RitualOutcomeEffectWorker_GrinderSacrifice()
     {
     }
 
-    public RitualOutcomeEffectWorker_GrinderSacrifice(RitualOutcomeEffectDef def)
+    protected RitualOutcomeEffectWorker_GrinderSacrifice(RitualOutcomeEffectDef def)
         : base(def)
     {
     }

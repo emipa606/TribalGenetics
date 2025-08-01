@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal grinder sacrifice -->
+  <TribalGenetics_GrinderSacrificeAnimal_Precept.label>animal grinder sacrifice</TribalGenetics_GrinderSacrificeAnimal_Precept.label>
+  <!-- EN: Sacrifice a tame animal to the sanctified grinder. -->
+  <TribalGenetics_GrinderSacrificeAnimal_Precept.description>Sacrifice a tame animal to the sanctified grinder.</TribalGenetics_GrinderSacrificeAnimal_Precept.description>
+  <!-- EN: human grinder sacrifice -->
+  <TribalGenetics_GrinderSacrificePrisoner_Precept.label>human grinder sacrifice</TribalGenetics_GrinderSacrificePrisoner_Precept.label>
+  <!-- EN: Sacrifice a human prisoner to the sanctified grinder. -->
+  <TribalGenetics_GrinderSacrificePrisoner_Precept.description>Sacrifice a human prisoner to the sanctified grinder.</TribalGenetics_GrinderSacrificePrisoner_Precept.description>
+</LanguageData>
