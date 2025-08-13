@@ -8,11 +8,13 @@ namespace TribalGenetics;
 
 public class RitualOutcomeEffectWorker_GrinderSacrifice : RitualOutcomeEffectWorker_FromQuality
 {
-    protected RitualOutcomeEffectWorker_GrinderSacrifice()
+    // ReSharper disable once MemberCanBeProtected.Global
+    public RitualOutcomeEffectWorker_GrinderSacrifice()
     {
     }
 
-    protected RitualOutcomeEffectWorker_GrinderSacrifice(RitualOutcomeEffectDef def)
+    // ReSharper disable once MemberCanBeProtected.Global
+    public RitualOutcomeEffectWorker_GrinderSacrifice(RitualOutcomeEffectDef def)
         : base(def)
     {
     }
